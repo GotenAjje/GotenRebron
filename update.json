@@ -1,0 +1,10 @@
+{
+  "id": "G99",
+  "name": "G99 Rebron",
+  "version": "v1.0",
+  "versionCode": 1,
+  "author": "GotenAjje",
+  "description": "Optimization for G99 & G100 (Run 'su -c Dex' for boosting your apps)",
+  "updateJson": "https://raw.githubusercontent.com/GotenAjje/GotenRebron/main/update.json",
+  "downloadUrl": "https://github.com/GotenAjje/GotenRebron/releases/latest/download/G99Rebron.zip"
+}

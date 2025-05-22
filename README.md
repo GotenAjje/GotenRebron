@@ -1,6 +1,6 @@
-# GotenRebron
+# G99 Rebron
 ## 👋 Hi there, welcome to GotenProject 
-## Magisk Module
+## Magisk Module for MediaTek Helio G99 & Helio G100
 
 🚀 **GotenProject** is a Magisk module designed to bring additional features or custom modifications to Android systems — all without altering the system partition. Perfect for users who want deeper control over their devices.
 
@@ -8,7 +8,7 @@
 
 ### 📌 Key Features
 
-- ✅ modding with minimal risk of bootloop  
+- ✅ Modding with minimal risk of bootloop  
 - ✅ Compatible with a wide range of Android versions and devices  
 - ✅ Lightweight, fast, and easy to install  
 - ✅ Developed with a focus on safety and efficiency  

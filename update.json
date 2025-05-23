@@ -1,10 +1,6 @@
 {
-  "id": "G99",
-  "name": "G99 Rebron",
-  "version": "v1.0",
   "versionCode": 1,
-  "author": "GotenAjje",
-  "description": "Optimization for G99 & G100 (Run 'su -c Dex' for boosting your apps)",
-  "updateJson": "https://raw.githubusercontent.com/GotenAjje/GotenRebron/main/update.json",
-  "downloadUrl": "https://github.com/GotenAjje/GotenRebron/releases/latest/download/G99Rebron.zip"
+  "version": "v1.0",
+  "zipUrl": "https://github.com/GotenAjje/GotenRebron/releases/latest/download/module.zip",
+  "changelog": "Initial release for Helio G99 & G100 with performance, dexopt, memory, and touch optimizations."
 }
